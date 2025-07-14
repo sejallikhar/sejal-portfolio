@@ -26,7 +26,7 @@ const RecentProjects = () => {
                 >
                   <img src="/bg.png" alt="bgimg" />
                 </div>
-                {/* <img src={img} alt="cover" className="z-10 absolute bottom-0" /> */}
+                <img src={img} alt="cover" className="z-10 absolute bottom-0" />
               </div>
 
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">

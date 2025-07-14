@@ -76,7 +76,7 @@ export const navItems = [
     id: 1,
     title: "SIAI – Shae",
     des: "Biological assessment platform featuring biometric auth, encrypted chat & 98%‑accurate voice recognition. Built with Flutter and cloud services, compliant with HIPAA standards.",
-    img: "/siai.gif",
+    img: "/siai.png",
     iconLists: ["/flutter.png", "/firebase.png", "/aws.png"],
     link: "", // Private repository – contact for demo
   },
@@ -100,7 +100,7 @@ export const navItems = [
     id: 4,
     title: "Open‑Source Contributions",
     des: "Active contributor to Flutter & Node.js ecosystem – see GitHub for recent PRs and packages.",
-    img: "/opensource.jpeg",
+    img: "/opensource.png",
     iconLists: ["/git.svg", "/node.png", "/flutter.png"],
     link: "",
   },
